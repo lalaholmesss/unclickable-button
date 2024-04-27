@@ -1,0 +1,20 @@
+
+body{
+    background-color: black;
+ }
+p{ 
+    color: #149414;
+    font-family: monospace;
+ }
+button{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    cursor: default;
+    background-color: #149414;
+    border-color: aquamarine;
+    border-radius: 25px;
+    color: rgb(191, 233, 188);
+    font-size: 20px;
+  }
+ 
